@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CinPox</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/estilos.css" />
+    <script src="script.js"></script>
+    
+
+</head>
+<body>
+
+    <header class="hero">
+        <div class="container">
+        
+
+            <nav class="nav">
+                <ul id="menu">
+                  <li><a href="">Inicio</a></li>
+                  <li><a href="">Proyectos ↓</a>
+                    <ul>
+                      <li><a href="/paginas web/ef web/ExoGaming.html" target="_BLANK">Exogaming</a></li>
+                      <li><a href="" target="_BLANK">Amlovers</a></li>
+                      <li><a href="" target="_BLANK">EnderSite</a></li>
+                    </ul>  
+                  </li>
+
+                  <li><a href="">Contacto</a></li>
+                </ul>
+              </nav>
+            <nav class="nav">
+    
+            </nav>
+            <section class="hero__container">
+                <div class="hero__texts">
+                    <h1 class="hero__title">CinPox</h1>
+                    <h2 class="hero__subtitle">hola hijo mio ¿eres fan de Mr.misterio? te puedo dar algunos consejos para ser como el</h2>
+                </div>
+            </section>
+        </div>
+    
+    </header>
+
+    <main>
+
+        <section class="presentation container">
+            <img src="fotos/gamer control.jpg" class="presentation__picture">
+            <h2 class="subtitle">Esto es CinPox</h2>
+            <p class="presentation__copy">esta es una pagina de prueba(beta) y se podra vizualizar lo mas importante acerca de la pagina. De que trata, que se puede hacer, como puedo interactuar con ella, etc. </p>
+            <a href="https://discord.gg/zbabH5bDrU" target="_BLANK" class="presentation__cta">Contact now</a>
+        </section>
+        <section class="about container">
+            <div class="about__texts">
+                <h2 class="subtitle">Nuestras habilidades</h2>
+                <p class="about__paragraph">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo, ratione! Sequi incidunt fugiat, dolores doloremque fugit harum? Iste, fugit nulla nemo distinctio beatae veniam cumque aliquid non quisquam soluta modi.</p>
+                <p class="about__paragraph">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, atque dolori bus temporibus obcaecati, magni recusandae sed distinctio optio quasi doloremque tempore velit fugiat adipisci tenetur perferendis debitis cupiditate voluptatibus. Corrupti.</p>
+            </div>
+            <figure class="about__img">
+                <img src="fotos/bk.jpg" class="about picture">
+            </figure>
+        </section>
+        <section class="about container">
+            <div class="about__texts">
+                <h2 class="subtitle">Nuestras habilidades</h2>
+                <p class="about__paragraph">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo, ratione! Sequi incidunt fugiat, dolores doloremque fugit harum? Iste, fugit nulla nemo distinctio beatae veniam cumque aliquid non quisquam soluta modi.</p>
+                <p class="about__paragraph">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, atque dolori bus temporibus obcaecati, magni recusandae sed distinctio optio quasi doloremque tempore velit fugiat adipisci tenetur perferendis debitis cupiditate voluptatibus. Corrupti.</p>
+            </div>
+            <figure class="about__img">
+                <img src="fotos/bk.jpg" class="about picture">
+            </figure>
+        </section>
+    </main>
+    
+
+    
+
+    <footer class="footer">
+        <div class="container footer__grid">
+            <nav class="nav nav--footer">
+                <a class="nav__items nav__items--footer" href="">Inicio</a>
+
+                <a class="nav__items nav__items--footer" href="">Proyectos</a>
+                
+                <a class="nav__items nav__items--footer" href="https://discord.gg/zbabH5bDrU">Discord</a>
+
+            </nav>
+            <section class="footer__contact">
+                <h3 class="footer__title">contact</h3>
+                <div class="footer__icons">
+                    <span class="footer__container-icons">
+                        <a class="fab fa-instagram" href=""></a>
+                    </span>
+                    <span class="footer__container-icons">
+                        <a class="fab fa-facebook" href="https//facebook.com/exogaming"></a>
+                    </span>
+                </div>
+            </section>
+
+         
+            <nav class="nav__footer">exogaming</nav>
+        </div>
+    </footer>
+
+
+    <script src="https://kit.fontawesome.com/cff780124b.js" crossorigin="anonymous"></script>
+</body>
+</html>
