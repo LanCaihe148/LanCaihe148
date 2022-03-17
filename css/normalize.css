@@ -3,11 +3,6 @@
 /* Document
    ========================================================================== */
 
-  *, ::before, ::after{
-     margin: 0;
-     box-sizing: border-box;
-   }
-
 /**
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
@@ -43,8 +38,8 @@
    */
   
   h1 {
-    font-size: 2.0em;
-    margin: 0;
+    font-size: 2em;
+    margin: 0.67em 0;
   }
   
   /* Grouping content
